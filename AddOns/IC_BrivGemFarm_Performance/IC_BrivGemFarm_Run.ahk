@@ -134,9 +134,9 @@ ComObjectRevoke()
     ExitApp
 }
 
-$SC045::
+~Pause::
 Pause
-return 
+return
 
 BrivPerformanceGemFarmGuiClose()
 {
